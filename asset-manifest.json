@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//inovitechh.github.io/react/static/css/main.2905d95c.css",
+    "main.js": "//inovitechh.github.io/react/static/js/main.bc295920.js",
+    "static/js/453.8fab5b62.chunk.js": "//inovitechh.github.io/react/static/js/453.8fab5b62.chunk.js",
+    "index.html": "//inovitechh.github.io/react/index.html",
+    "main.2905d95c.css.map": "//inovitechh.github.io/react/static/css/main.2905d95c.css.map",
+    "main.bc295920.js.map": "//inovitechh.github.io/react/static/js/main.bc295920.js.map",
+    "453.8fab5b62.chunk.js.map": "//inovitechh.github.io/react/static/js/453.8fab5b62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2905d95c.css",
+    "static/js/main.bc295920.js"
+  ]
+}
